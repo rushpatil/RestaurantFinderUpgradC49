@@ -1,3 +1,5 @@
+package com.RestaurantFinder;
+
 public class Item {
     private String name;
     private int price;
